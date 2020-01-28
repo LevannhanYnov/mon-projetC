@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579196902 source:c:\users\cochc\desktop\projetlangagec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

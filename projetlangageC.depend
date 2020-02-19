@@ -1,5 +1,16 @@
 # depslib dependency file v1.0
-1579196902 source:c:\users\cochc\desktop\projetlangagec\main.c
+1582121046 source:c:\users\cochc\desktop\projetlangagec\main.c
+	"Outils.h"
+
+1580226669 source:c:\users\cochc\desktop\projetlangagec\loading.c
+
+1580226479 source:c:\users\cochc\desktop\projetlangagec\disp_menu.c
+
+1580226581 source:c:\users\cochc\desktop\projetlangagec\reveil.c
+
+1582120758 c:\users\cochc\desktop\projetlangagec\outils.h
+
+1582121070 source:c:\users\cochc\desktop\projetlangagec\outils.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
